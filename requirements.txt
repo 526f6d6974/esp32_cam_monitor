@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+asyncpg
+vercel-blob
+python-dotenv
+pytz
+fastapi-cors
+python-multipart
